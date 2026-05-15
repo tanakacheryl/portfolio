@@ -5,7 +5,7 @@ Software Developer | Control Systems & Automation | PLC, SCADA & Mechatronics
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [Digital Library Management System](https://github.com/tanakacheryl/digital-library-management-system)
+- [Digital Library Management System](https://github.com/tanakacheryl/DigitalLibrary )
 
 <h2>🤳 Connect with me:</h2>
 
