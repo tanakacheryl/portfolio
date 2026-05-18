@@ -9,7 +9,7 @@ Software Developer | Control Systems & Automation | PLC, SCADA & Mechatronics
 
 <h2>🤖IoT & Embedded Projects:</h2>
 
-- [Esp8266 Thermostat](https://github.com/tanakacheryl/DigitalLibrary )
+- [Esp8266 Thermostat](https://github.com/tanakacheryl/ESP8266Thermostat )
   
 <h2>🤳 Connect with me:</h2>
 
