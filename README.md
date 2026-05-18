@@ -7,6 +7,8 @@ Software Developer | Control Systems & Automation | PLC, SCADA & Mechatronics
 
 - [Digital Library Management System](https://github.com/tanakacheryl/DigitalLibrary )
 
+- [Restaurant Management Web App](https://github.com/tanakacheryl/)
+  
 <h2>🤖IoT & Embedded Projects:</h2>
 
 - [Esp8266 Thermostat](https://github.com/tanakacheryl/ESP8266Thermostat )
