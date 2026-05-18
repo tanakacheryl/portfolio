@@ -7,7 +7,7 @@ Software Developer | Control Systems & Automation | PLC, SCADA & Mechatronics
 
 - [Digital Library Management System](https://github.com/tanakacheryl/DigitalLibrary )
 
-- [Restaurant Management Web App](https://github.com/tanakacheryl/)
+- [Restaurant Management Web App](https://github.com/tanakacheryl/restaurant)
   
 <h2>🤖IoT & Embedded Projects:</h2>
 
