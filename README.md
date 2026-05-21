@@ -12,7 +12,10 @@ Software Developer | Control Systems & Automation | PLC, SCADA & Mechatronics
 <h2>🤖IoT & Embedded Projects:</h2>
 
 - [Esp8266 Thermostat](https://github.com/tanakacheryl/ESP8266Thermostat )
+  
 - [Micropython-servo-display](https://github.com/tanakacheryl/Micropython-servo-display )
+
+- [MicroPython + OLED + temperature sensor](https://github.com/tanakacheryl/Micropython-servo-display )
   
   
 <h2>🤳 Connect with me:</h2>
