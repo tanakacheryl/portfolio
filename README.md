@@ -15,7 +15,7 @@ Software Developer | Control Systems & Automation | PLC, SCADA & Mechatronics
   
 - [Micropython-servo-display](https://github.com/tanakacheryl/Micropython-servo-display )
 
-- [MicroPython + OLED + temperature sensor](https://github.com/tanakacheryl/Micropython-servo-display )
+- [MicroPython + OLED + temperature sensor](https://github.com/tanakacheryl/MicroPython-OLED-temperature-sensor )
   
   
 <h2>🤳 Connect with me:</h2>
