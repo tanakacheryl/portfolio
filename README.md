@@ -19,7 +19,7 @@ Software Developer | Control Systems & Automation | PLC, SCADA & Mechatronics
 
 - [Real Time Stepper Monitor](https://github.com/tanakacheryl/Real-Time-Stepper-Monitor )
 
--  [Real Time Stepper Monitor](https://github.com/tanakacheryl/Real-Time-Stepper-Monitor )
+-  [OpenCV Raspberry Pi Camera Lab](https://github.com/tanakacheryl/OpenCV-Raspberry-Pi-Camera-Lab )
   
   
 <h2>🤳 Connect with me:</h2>
