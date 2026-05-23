@@ -22,6 +22,8 @@ Software Developer | Control Systems & Automation | PLC, SCADA & Mechatronics
 -  [OpenCV Raspberry Pi Camera Lab](https://github.com/tanakacheryl/OpenCV-Raspberry-Pi-Camera-Lab )
 
 -  [Raspberry Pi Tkinter Snake Game](https://github.com/tanakacheryl/Raspberry-Pi-Tkinter-Snake-Game )
+
+-  [Micropython Button Counter](https://github.com/tanakacheryl/micropython-button-counter )
   
   
 <h2>🤳 Connect with me:</h2>
